@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NepaliTeacherApp</string>
+    <string name="nepalApp">Nepali Teacher App</string>
+    <string name="black">Black</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+</resources>
