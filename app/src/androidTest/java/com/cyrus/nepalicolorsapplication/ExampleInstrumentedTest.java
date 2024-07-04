@@ -1,4 +1,4 @@
-package com.cyrus.nepaliteacherapp;
+package com.cyrus.nepalicolorsapplication;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.cyrus.nepaliteacherapp", appContext.getPackageName());
+        assertEquals("com.cyrus.nepalicolorsapplication", appContext.getPackageName());
     }
 }

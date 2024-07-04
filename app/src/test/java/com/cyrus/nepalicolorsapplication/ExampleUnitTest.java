@@ -1,4 +1,4 @@
-package com.cyrus.nepaliteacherapp;
+package com.cyrus.nepalicolorsapplication;
 
 import org.junit.Test;
 
